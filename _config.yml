@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Alexandre de Camargo"
+title                    : "Physicist exploring the chemistry world"
 title_separator          : "-"
 name                     : &name "Alexandre de Camargo"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile_pic.jpg"
   name             : "Alexandre de Camargo"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Student"
+  bio              : "Ph.D. Student at McMaster University"
   location         : "Hamilton, Ontario, Canada"
   affiliation      : "McMaster University"
   uri              : # URL
