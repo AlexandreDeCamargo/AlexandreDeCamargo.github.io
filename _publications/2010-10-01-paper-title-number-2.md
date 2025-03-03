@@ -1,5 +1,5 @@
 ---
-title: "AHHAHAH"
+title: "Master equations governing the coupling between spin-currents and gravity"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
