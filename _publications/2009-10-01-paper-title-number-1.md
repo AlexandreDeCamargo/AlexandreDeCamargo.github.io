@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 # permalink: 'https://doi.org/10.1140/epjc/s10052-022-10856-2'
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2022-10-01
 venue: 'The European Physical Journal C'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'https://doi.org/10.1140/epjc/s10052-022-10856-2'
