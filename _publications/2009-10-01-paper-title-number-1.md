@@ -2,12 +2,12 @@
 title: "Master equations governing the coupling between spin-currents and gravity"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: 'https://doi.org/10.1140/epjc/s10052-022-10856-2'
+# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'The European Physical Journal C'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://doi.org/10.1140/epjc/s10052-022-10856-2'
+# paperurl: 'https://doi.org/10.1140/epjc/s10052-022-10856-2'
 # citation: 'de Camargo, Alexandre and Sobreiro, RF and Vasquez Otoya, Víctor José. (2022) &quot;Master equations governing the coupling between spin-currents and gravity.&quot; <i>The European Physical Journal C</i>. 1(1).'
 ---
 
